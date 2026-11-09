@@ -3,7 +3,10 @@ K452b is a free roguelike RPG. The old desktop downloads have been retired while
 
 Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/kepler452b/issues)
 
-![Basic Gameplay Screenshot](v1.0.0.gif)
+<p align="center">
+  <img src="screenshot-desktop.png" alt="A pyrotechnic's flamethrower setting a pack of brood on fire on an Avery Center floor, desktop" width="76%">
+  <img src="screenshot-phone.png" alt="The same fight on a phone, with the touch bar" width="20%">
+</p>
 
 ## Table of Contents
 - [Story](#story)
